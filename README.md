@@ -43,7 +43,7 @@ The requirements for this project were:
 
 * GitHub: https://github.com/SLachelier/MegaBytes
 
-* Deployed:
+* Deployed: https://slachelier.github.io/MegaBytes/
 
 ### Technologies
 
@@ -62,5 +62,6 @@ This project contains the following features
 Search for the top rated restaurants in your area by entering the name of the city of your choice. Clicking on "Search Restaurants" will populate the results for that area.
 
 ### Project Demo
+
 
 
