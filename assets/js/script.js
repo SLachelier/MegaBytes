@@ -162,6 +162,7 @@ function showResults () {
         restPrice = document.createElement("div");
         restPrice.className = "rest-price "
         restPrice.innerHTML = "<h3>" + cityRestaurants.results.data[i].price_level + "</h3>"
+        
         restMap = document.createElement("div")
         restMap.id = "map" + [i]
         restMap.className = "map column is-one-third-desktop"
