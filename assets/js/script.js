@@ -1,6 +1,6 @@
-// API key, hidden 
-const key = config.MY_API_KEY;
-const googleKey = config.GOOGLE_KEY;
+// API keys
+const key = "cfbc8d3087msh6c6ea9d7d95f9e1p1b1cecjsn764def6fdef3"
+const googleKey = "AIzaSyC5dVs8EJCcz2g5ww9ET-pkqEI9OZN3Xu0"
 
 // Global Variables
 let resultsEl = document.querySelector("#results");
